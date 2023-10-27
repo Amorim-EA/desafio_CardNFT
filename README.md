@@ -21,8 +21,8 @@ As seguintes tecnologias foram usadas no desafio:
 - [Animated CSS](https://animate.style/)
 - [Leonardo IA](https://app.leonardo.ai/)
 
-##  👦 Autor
-- Erick Amorim
-
 ### Mobile
 ![Mobile](https://github.com/Amorim-EA/portifolio_cn_trabalho/blob/main/images/tela3.png)
+
+##  👦 Autor
+- Erick Amorim
