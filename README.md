@@ -1,13 +1,14 @@
-# Imagens
-![alt text](https://github.com/Amorim-EA/portifolio_cn_trabalho/blob/main/images/tela1.png)
-![alt text](https://github.com/Amorim-EA/portifolio_cn_trabalho/blob/main/images/tela2.png)
-![alt text](https://github.com/Amorim-EA/portifolio_cn_trabalho/blob/main/images/tela3.png)
-
 # Desafio CARD-NTFT - Portifolio
 - Disciplina: GERÊNCIA E CONFIGURAÇÕES DE SERVIÇOS DE INTERNET
+  
+## Desktop
+![Desktop](https://github.com/Amorim-EA/portifolio_cn_trabalho/blob/main/images/tela1.png)
 
 ## Quer dar uma olhada?
 - https://amorim-ea.github.io/portifolio_cn_trabalho/
+
+## Ipad ou Notebook
+![Notebook](https://github.com/Amorim-EA/portifolio_cn_trabalho/blob/main/images/tela2.png)
 
 ## 💻 Tecnologias
 As seguintes tecnologias foram usadas no desafio:
@@ -22,3 +23,6 @@ As seguintes tecnologias foram usadas no desafio:
 
 ##  👦 Autor
 - Erick Amorim
+
+## Mobile
+![Mobile](https://github.com/Amorim-EA/portifolio_cn_trabalho/blob/main/images/tela3.png)
