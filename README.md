@@ -1,6 +1,7 @@
 # Imagens
-![alt text](https://github.com/Amorim-EA/portifolio_cn_trabalho/blob/main/images/telap1.png)
-![alt text](https://github.com/Amorim-EA/portifolio_cn_trabalho/blob/main/images/telap2.png)
+![alt text](https://github.com/Amorim-EA/portifolio_cn_trabalho/blob/main/images/tela1.png)
+![alt text](https://github.com/Amorim-EA/portifolio_cn_trabalho/blob/main/images/tela2.png)
+![alt text](https://github.com/Amorim-EA/portifolio_cn_trabalho/blob/main/images/tela3.png)
 
 # Desafio CARD-NTFT - Portifolio
 - Disciplina: GERÊNCIA E CONFIGURAÇÕES DE SERVIÇOS DE INTERNET
