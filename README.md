@@ -1,6 +1,11 @@
 # Desafio CARD-NTFT - Portifolio
 - Disciplina: GERÊNCIA E CONFIGURAÇÕES DE SERVIÇOS DE INTERNET
 
+## Imagens
+
+![alt text]([http://url/to/img.png](https://github.com/Amorim-EA/portifolio_cn_trabalho/blob/main/images/telap1.png))
+![alt text]([http://url/to/img.png](https://github.com/Amorim-EA/portifolio_cn_trabalho/blob/main/images/telap2.png))
+
 ## Quer dar uma olhada?
 - https://amorim-ea.github.io/portifolio_cn_trabalho/
 
