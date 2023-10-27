@@ -6,6 +6,25 @@ body {
     margin: 0;
 }
 
+/* estilo do header */
+
+header {
+    height: 150px;
+    background-color: #222;
+    margin-bottom: 50px;
+    color: #666;
+}
+
+.logo {
+  width: 140px;
+  height: 140px;
+  border-radius: 75px;
+}
+
+/* fim estilo do header */
+
+/* estilo do cardlist(main contendo todos os cards) */
+
 main {
     display: flex;
     flex-direction: row;
@@ -98,6 +117,10 @@ main {
     font-style: normal;
 }
 
+/* fim do estilo do cardlist */
+
+/* estilo do rodapé */
+
 .attribution {
     display: flex;
     justify-content: center;
@@ -108,3 +131,5 @@ main {
     align-items: center;
     width: 100%;
 }
+
+/* fim do estilo do rodapé */
