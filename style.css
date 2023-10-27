@@ -1,0 +1,112 @@
+body {
+    background-image: url("./images/qwer.webp");
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+
+header {
+    height: 150px;
+    background-color: #222;
+    margin-bottom: 50px;
+    color: #666;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.card {
+    margin: auto;
+    width: 298px;
+    height: 540px;
+    display: flex;
+    flex-direction: column;
+    background-color: #222;
+    border-radius: 10px;
+    padding: 30px;
+    transition: transform 0.5s;
+}
+
+.card:hover {
+    transform: scale(1.15); 
+}
+
+
+.flex {
+    display: flex;
+    justify-content: space-between;
+    gap: 5px;
+    align-items: center;
+}
+
+.image-nft {
+    border-radius: 20px;
+    width: 300px;
+    height: 300px;
+}
+
+.title {
+    font-family: Verdana;
+    font-size: 23px;
+}
+
+.description {
+    font-family: Verdana;
+    font-size: 14px;
+    text-decoration: none;
+}
+
+.line {
+    border: 1px solid #333;
+    background-color: hsl(215, 32%, 27%);
+    height: 3px;
+    width: 95%;
+}
+
+.soft-blue{
+    color: hsl(215, 51%, 70%);
+}
+
+.cyan {
+    color: hsl(178, 100%, 50%);
+}
+
+.white {
+    color: hsl(0, 0%, 100%);
+}
+
+.icons {
+    width: 17px;
+    height: 20px;
+}
+
+.flex-creator {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.image-creator {
+    width: 35px;
+    height: 35px;
+    border: 2px solid white;
+    border-radius: 50px;
+}
+
+.creation-text {
+    font-size: 15px;
+    font-style: normal;
+}
+
+.attribution {
+    display: flex;
+    justify-content: center;
+    background-color: #222;
+    color: white;
+    height: 40px;
+    margin-top: 50px;
+    align-items: center;
+    width: 100%;
+}
