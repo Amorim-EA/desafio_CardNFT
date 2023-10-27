@@ -1,8 +1,10 @@
 # Desafio CARD-NTFT - Portifolio
 - Disciplina: GERÊNCIA E CONFIGURAÇÕES DE SERVIÇOS DE INTERNET
 
+## Quer dar uma olhada?
+- https://amorim-ea.github.io/portifolio_cn_trabalho/
 
-### 💻 Tecnologias
+## 💻 Tecnologias
 As seguintes tecnologias foram usadas no desafio:
 - HTML
 - CSS
