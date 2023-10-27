@@ -6,6 +6,8 @@ body {
     margin: 0;
 }
 
+/* estilo do header */
+
 header {
     height: 150px;
     background-color: #222;
@@ -15,6 +17,25 @@ header {
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
+}
+
+.logo {
+  width: 140px;
+  height: 140px;
+  border-radius: 75px;
+}
+
+/* fim estilo do header */
+
+/* estilo do cardlist(main contendo todos os cards) */
+
+main {
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    flex-wrap: wrap;
+    max-width: 80%;
+    margin: auto;
 }
 
 .card {
@@ -100,6 +121,9 @@ header {
     font-style: normal;
 }
 
+/* fim do estilo do cardlist */
+
+/* estilo do rodapé */
 .attribution {
     display: flex;
     justify-content: center;
@@ -110,3 +134,4 @@ header {
     align-items: center;
     width: 100%;
 }
+/* fim do estilo do rodapé */
