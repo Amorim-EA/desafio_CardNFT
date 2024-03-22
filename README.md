@@ -3,7 +3,7 @@
 
 
 ## Quer dar uma olhada?
-- https://amorim-ea.github.io/portifolio_cn_trabalho/
+- https://amorim-ea.github.io/desafio_CardNFT/
   
 ### Desktop
 ![Desktop](https://github.com/Amorim-EA/portifolio_cn_trabalho/blob/main/images/tela1.png)
